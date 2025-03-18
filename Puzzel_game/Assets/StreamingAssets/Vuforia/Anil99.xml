@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Juju_Kaisen" size="1.238250 0.792609" />
+    <ImageTarget name="tarmac" size="1.238250 0.956830" />
+    <ImageTarget name="P6" size="0.301095 0.285538" />
+    <ImageTarget name="P5" size="0.301095 0.286028" />
+    <ImageTarget name="P4" size="0.301095 0.285538" />
+    <ImageTarget name="P3" size="0.301095 0.285789" />
+    <ImageTarget name="P2" size="0.301095 0.285777" />
+    <ImageTarget name="P1" size="0.301095 0.285777" />
+    <ImageTarget name="IMG_9425" size="0.924454 8.156672" />
+    <ImageTarget name="IMG_9424" size="0.917045 8.129100" />
+    <ImageTarget name="IMG_9423" size="0.966787 8.574368" />
+    <ImageTarget name="pen" size="0.423333 3.272139" />
+    <ImageTarget name="Naru_puzzel_4" size="0.452172 0.643432" />
+    <ImageTarget name="Naru_puzzel_3" size="0.452172 0.643968" />
+    <ImageTarget name="Naru_puzzel_2" size="0.452172 0.643432" />
+    <ImageTarget name="Naru_puzzel_1" size="0.452172 0.643968" />
+    <ImageTarget name="Naru" size="0.903287 1.285461" />
+    <ImageTarget name="JUJU" size="0.325172 0.208144" />
+    <ImageTarget name="Salaar" size="0.978429 1.412819" />
+    <ImageTarget name="Target" size="0.338666 0.489269" />
+    <ImageTarget name="Corner11" size="0.338666 0.488718" />
+    <ImageTarget name="Corner" size="0.338666 0.489269" />
+    <ImageTarget name="photo1698759336" size="0.270404 0.390211" />
+    <ImageTarget name="Top_left_Corner" size="2.063220 2.977364" />
+    <ImageTarget name="Image" size="0.121179 0.090686" />
+    <ImageTarget name="Gel_Tube" size="0.228000 1.200988" />
+    <ImageTarget name="Soap_Box" size="0.148166 0.096145" />
+    <ImageTarget name="Flash" size="0.228000 0.317217" />
+    <ImageTarget name="Book" size="0.228000 0.279326" />
+    <ImageTarget name="oreo" size="0.228000 0.150044" />
+    <ImageTarget name="flask" size="0.228000 0.367383" />
+    <ImageTarget name="Sheets" size="0.228000 0.376082" />
+  </Tracking>
+</QCARConfig>
